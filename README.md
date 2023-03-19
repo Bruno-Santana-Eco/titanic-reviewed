@@ -1,6 +1,5 @@
 # Reviewing The Classic Kaggle Dataset
-This is not a ML project as usual, it is a data viz. and manipulation exercise.
-Could Python create dashboards as good as a BI tool? Let's see!
+Practicing data visualization and manipulation with Plotly and Pandas
 
 ![My Image](flow_chart.png)
 
