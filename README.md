@@ -1,5 +1,6 @@
 # Reviewing The Classic Kaggle Dataset
-No, this is not a Machine Learning Project as usual. It is a data visualization and manipulation project.
+This is not a ML project as usual. It is a data viz. and manipulation exercise.
+Could Python create dashboards as good as a BI tool? Let's see!
 
 ![My Image](flow_chart.png)
 
@@ -13,8 +14,7 @@ Scenario:
 Estimated Logit Model:
 ![image](https://user-images.githubusercontent.com/82718085/226204942-41590845-9271-4ce0-bc0f-60a462c5a08d.png)
 
-*This is an exercise where I explore my visualizations and data manipulations skills with Plotly and Pandas.*
-
+*When plotted in the jupyter notebook, they are plotted together (no blank spaces between them), simulating a "panel"*
 ## General Statistics
 ![My Image](plots/general_statistics/1-pie_plot_by_port.png)
 ![My Image](plots/general_statistics/2-pie_plot_by_class.png)
