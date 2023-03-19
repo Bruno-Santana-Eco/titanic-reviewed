@@ -1,6 +1,8 @@
 # Reviewing The Classic Kaggle Dataset
 No, this is not a Machine Learning Project as usual. It is a data visualization and manipulation project.
 
+![My Image](flow_chart.png)
+
 Scenario:
 1. Receive two datasets (train and test) in different .csv files;
 2. An estimated logit model to apply in the test set and predict the test values;
@@ -24,4 +26,3 @@ Estimated Logit Model:
 ![My Image](plots/survival_statistics/2-bar_plot_sex.png)
 ![My Image](plots/survival_statistics/3-bar_plot_class.png)
 ![My Image](plots/survival_statistics/4-dist_plot_age.png)
-
