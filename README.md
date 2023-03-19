@@ -13,7 +13,7 @@ Scenario:
 Estimated Logit Model:
 ![image](https://user-images.githubusercontent.com/82718085/226204942-41590845-9271-4ce0-bc0f-60a462c5a08d.png)
 
-*When plotted in the jupyter notebook, they are plotted together (no blank spaces between them), simulating a "panel"*
+*When plotted in the jupyter notebook, they are plotted together (no blank spaces between them), simulating a "panel"* - Vintage Theme
 ## General Statistics
 ![My Image](plots/general_statistics/1-pie_plot_by_port.png)
 ![My Image](plots/general_statistics/2-pie_plot_by_class.png)
