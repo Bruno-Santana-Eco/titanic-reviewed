@@ -1,1 +1,27 @@
-# titanic-reviewed
+# Reviewing The Classic Kaggle Dataset
+No, this is not a Machine Learning Project as usual. It is a data visualization and manipulation project.
+
+Scenario:
+1. Receive two datasets (train and test) in different .csv files;
+2. An estimated logit model to apply in the test set and predict the test values;
+3. Unite these two datasets into a final merged dataset as a new .csv file;
+4. Create dashboards (with python) using ONLY bar, line and pie charts (in real life we face many restrictions);
+5. The graphs should compare the variables for both datasets (train and test);
+
+Estimated Logit Model:
+![image](https://user-images.githubusercontent.com/82718085/226204942-41590845-9271-4ce0-bc0f-60a462c5a08d.png)
+
+*This is an exercise where I explore my visualizations and data manipulations skills with Plotly and Pandas.*
+
+## General Statistics
+![My Image](plots/general_statistics/1-pie_plot_by_port.png)
+![My Image](plots/general_statistics/2-pie_plot_by_class.png)
+![My Image](plots/general_statistics/3-bar_plot_relatives.png)
+![My Image](plots/general_statistics/4-bar_plot_parents.png)
+
+## Survival Statistics
+![My Image](plots/survival_statistics/1-line_plot_survivers.png)
+![My Image](plots/survival_statistics/2-bar_plot_sex.png)
+![My Image](plots/survival_statistics/3-bar_plot_class.png)
+![My Image](plots/survival_statistics/4-dist_plot_age.png)
+
